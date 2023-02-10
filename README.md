@@ -1,4 +1,3 @@
-[...]
 
 The project contains a file named next-seo-boilerplate.md that is amdletated with the project description and contains the following content:
 
