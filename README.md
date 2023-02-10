@@ -1,6 +1,6 @@
 
 
-Project: next-saas-starter
+
 
 Name: next-saas-starter
 
