@@ -2,7 +2,7 @@
 
 
 
-Name: next-saas-starter
+
 
 Description:
 
