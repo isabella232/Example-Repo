@@ -1,4 +1,4 @@
-Name: next-js-boilerplate
+
 
 Description:
 
