@@ -1,6 +1,6 @@
 {
   "name": "Example repo",
-  "description": "",
+  "description": "here",
   "generates": [
     {
       "preset": "translate",
