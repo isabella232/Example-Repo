@@ -1,0 +1,12 @@
+{
+  "name": "Example repo",
+  "description": "",
+  "generates": [
+    {
+      "preset": "translate",
+      "inputPath": "README.md",
+      "outputPath": "README.fr.md",
+      "language": "fr"
+    }
+  ]
+}
